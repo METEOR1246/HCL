@@ -1,4 +1,4 @@
-# Smart Sleep Companion
+# HCL — Smart Sleep Companion
 
 基于三张参考图实现的移动端交互原型，使用 React 19、TypeScript、Vite 6、Tailwind CSS 4 和 Lucide 图标。界面保留参考图的英文文案。
 
